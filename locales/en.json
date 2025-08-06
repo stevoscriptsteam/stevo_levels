@@ -1,0 +1,10 @@
+{
+
+    "levelcommand" : "levels",
+    "level_description" : "Level %s - %s/%s",
+    "level_title" : "Levels",
+    "level_up_title" : "Level Up!",
+    "level_up" : "You have reached level %s in %s",
+    "gained_xp_title" : "Gained XP!",
+    "gained_xp" : "You have gained %s xp in %s"
+}
